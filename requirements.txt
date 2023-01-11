@@ -1,13 +1,5 @@
 Flask
 numpy
 scipy
-gunicorn
-cryptography
-Jinja2
-setuptools
-markupsafe
-itsdangerous
-werkzeug
 opencv-python-headless
 opencv-python
- 

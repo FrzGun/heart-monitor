@@ -3,7 +3,7 @@
   "builds": [
       {
           "src": "*.py",
-          "use": "@FrzGun/heart-monitor"
+          "use": "@liudonghua123/now-flask"
       }
   ],
   "routes": [
@@ -13,3 +13,4 @@
       }
   ]
 }
+
